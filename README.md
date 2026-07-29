@@ -1,36 +1,29 @@
 # 👋 Hi, I'm Parham
 
 <h3 align="center">
-🚀 Frontend Developer
+Frontend Developer 🚀
 </h3>
 
 <p align="center">
-Building modern, responsive and user-friendly web applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Parham+👋;Frontend+Developer;React+Developer;Building+Modern+Web+Apps" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Parham 👋
+Hi, I'm Parham 👋
 
-I'm a Frontend Developer passionate about creating modern interfaces and interactive web experiences.
-
-I love building clean UI, learning new technologies and improving my skills by creating real-world projects.
+I'm a Frontend Developer focused on building modern, responsive and interactive web applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-
 <p>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" />
+
 </p>
 
 ---
@@ -38,10 +31,9 @@ I love building clean UI, learning new technologies and improving my skills by c
 ## ⚙️ Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite">
-<img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+
 </p>
 
 ---
@@ -50,34 +42,13 @@ I love building clean UI, learning new technologies and improving my skills by c
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
-
-</p>
-
----
-
-## 🚀 Projects
-
-- ⚡ React Applications
-- 🎨 Modern UI Designs
-- 🌐 API Based Applications
-- 💻 Frontend Web Projects
 
 ---
 
@@ -85,16 +56,14 @@ I love building clean UI, learning new technologies and improving my skills by c
 
 <p>
 
-📷 Instagram:
 <a href="https://instagram.com/prmfi">
-prmfi
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
-<br>
+&nbsp;&nbsp;
 
-✈️ Telegram:
 <a href="https://t.me/prmfi">
-prmfi
+<img src="https://skillicons.dev/icons?i=telegram" width="50"/>
 </a>
 
 </p>
