@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Parham
 
-<!--
-**prmfi0/prmfi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer
 
-Here are some ideas to get you started:
+I build modern web applications with React and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-green)
+![Django](https://img.shields.io/badge/Django-darkgreen)
+
+
+---
+
+## 📌 Currently Learning
+
+- React Advanced
+- TypeScript
+- Django REST Framework
+
+
+---
+
+## 📂 Projects
+
+- Blog Platform
+- Authentication System
+- REST API Projects
+
+
+---
+
+## 📫 Contact
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+Email:
+your@email.com
