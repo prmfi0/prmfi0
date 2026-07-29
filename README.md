@@ -42,15 +42,13 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=prmfi0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmfi0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </p>
-
----
 
 ## 🌎 Connect With Me
 
@@ -67,7 +65,6 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 </a>
 
 </p>
-
 ---
 
 ⭐ Thanks for visiting my profile!
