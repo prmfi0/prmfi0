@@ -29,14 +29,12 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode," />
 
 </p>
 
 ---
 
-
----
 ## 🌎 Connect With Me
 
 <p>
@@ -50,7 +48,3 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 </a>
 
 </p>
-
-Instagram: prmfi
-
-Telegram: prmfi
