@@ -42,11 +42,13 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 <p>
 
 <a href="https://instagram.com/prmfi">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+<img src="https://img.shields.io/badge/Instagram-prmfi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://t.me/prmfi">
-<img src="https://img.icons8.com/color/48/telegram-app.png"/>
+<img src="https://img.shields.io/badge/Telegram-prmfi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
