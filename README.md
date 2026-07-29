@@ -21,11 +21,8 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 ## 🛠️ Tech Stack
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
-
 ---
 
 ## ⚙️ Tools
@@ -42,29 +39,28 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prmfi0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=prmfi0&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmfi0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmfi0&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
+---
 ## 🌎 Connect With Me
 
 <p>
 
 <a href="https://instagram.com/prmfi">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://t.me/prmfi">
-<img src="https://skillicons.dev/icons?i=telegram" width="50"/>
+<img src="https://img.icons8.com/color/48/telegram-app.png"/>
 </a>
 
 </p>
----
 
-⭐ Thanks for visiting my profile!
+Instagram: prmfi
+
+Telegram: prmfi
