@@ -23,7 +23,7 @@ I'm a Frontend Developer focused on building modern, responsive and interactive 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
----
+
 
 ## ⚙️ Tools
 
