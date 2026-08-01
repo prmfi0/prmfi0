@@ -12,7 +12,7 @@ Frontend Developer 🚀
 
 ## 🧑‍💻 About Me
 
-Hi, I'm Parham 👋
+ I'm Parham 👋
 
 I'm a Frontend Developer focused on building modern, responsive and interactive web applications.
 
