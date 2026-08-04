@@ -3,7 +3,7 @@
   Owner: prmfi0 (Parham) — Frontend Developer
 -->
 
-<div align="end">
+<div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:1a1a2e&height=200&section=header&text=Parham&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=42" width="100%"/>
